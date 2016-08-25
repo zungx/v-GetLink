@@ -1,6 +1,7 @@
 {
 	"name": "phonglan/v-getlink",
 	"description": "Get Link Server ZingMp3, Nhaccuatui, vNhaccuatui.",
+	"version": "1.0",
 	"type": "php",
 	"keywords": [
 		"getlink",
