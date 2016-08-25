@@ -1,3 +1,4 @@
+[![GitHub issues](https://img.shields.io/github/issues/phonglann/v-GetLink.svg?style=plastic)](https://github.com/phonglann/v-GetLink/issues) [![GitHub forks](https://img.shields.io/github/forks/phonglann/v-GetLink.svg?style=plastic)](https://github.com/phonglann/v-GetLink/network) [![GitHub stars](https://img.shields.io/github/stars/phonglann/v-GetLink.svg?style=plastic)](https://github.com/phonglann/v-GetLink/stargazers) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=plastic)](https://raw.githubusercontent.com/phonglann/v-GetLink/master/LICENSE)
 ## `v-GetLink` Thư viện hỗ trợ get link
 
 ### Mục Lục:
