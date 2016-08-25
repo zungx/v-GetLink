@@ -1,0 +1,28 @@
+{
+	"name": "phonglan/v-getlink",
+	"description": "Get Link Server ZingMp3, Nhaccuatui, vNhaccuatui.",
+	"type": "php",
+	"keywords": [
+		"getlink",
+		"zingmp3",
+		"nhaccuatui",
+		"vnhaccuatui"
+	],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Phong Lan",
+			"email": "zhujinfeng1999@gmail.com"
+		}
+	],
+	"minimum-stability": "dev",
+	"require": {
+		"php": ">=5.4.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"GetLink\\": "src/Ext/",
+			"App\\": "src/"
+		}
+	}
+}
