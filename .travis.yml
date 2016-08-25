@@ -1,8 +1,3 @@
 language: php
-solution: TravisSample.sln
-install:
-– nuget restore TravisSample.sln
-– nuget install NUnit.Runners -Version 2.6.4 -OutputDirectory testrunner
-script:
-– xbuild /p:Configuration=Release TravisSample.sln
-– mono ./testrunner/NUnit.Runners.2.6.4/tools/nunit-console.exe           ./TravisSample.Test/bin/Release/TravisSample.Test.dll
+php:
+  - 5.4
